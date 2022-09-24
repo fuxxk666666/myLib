@@ -8,4 +8,4 @@ Android studio实验1
 
 这一次的实验目标就是我自己写的第一个Android studio 项目提交到github上。
 
-![123](.\123.png)
+![123](./123.png)
